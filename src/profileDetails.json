@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "fullname": "Austin Hills",
+      "Bio": "Developer",
+      "profession": "React developer"
+    },
+    {
+      "id": 2,
+      "fullname": "John Cruise",
+      "Bio": "Developer",
+      "profession": "React developer"
+    },
+    {
+      "id": 3,
+      "fullname": "Jane Doe",
+      "Bio": "Developer",
+      "profession": "React developer"
+    }
+  ]
